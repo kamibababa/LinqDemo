@@ -1,0 +1,15 @@
+C:\Users\songbo\source\repos\LinqDemo\LinqDemo\bin\Debug\net8.0\LinqDemo.exe
+C:\Users\songbo\source\repos\LinqDemo\LinqDemo\bin\Debug\net8.0\LinqDemo.deps.json
+C:\Users\songbo\source\repos\LinqDemo\LinqDemo\bin\Debug\net8.0\LinqDemo.runtimeconfig.json
+C:\Users\songbo\source\repos\LinqDemo\LinqDemo\bin\Debug\net8.0\LinqDemo.dll
+C:\Users\songbo\source\repos\LinqDemo\LinqDemo\bin\Debug\net8.0\LinqDemo.pdb
+C:\Users\songbo\source\repos\LinqDemo\LinqDemo\obj\Debug\net8.0\LinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\songbo\source\repos\LinqDemo\LinqDemo\obj\Debug\net8.0\LinqDemo.AssemblyInfoInputs.cache
+C:\Users\songbo\source\repos\LinqDemo\LinqDemo\obj\Debug\net8.0\LinqDemo.AssemblyInfo.cs
+C:\Users\songbo\source\repos\LinqDemo\LinqDemo\obj\Debug\net8.0\LinqDemo.csproj.CoreCompileInputs.cache
+C:\Users\songbo\source\repos\LinqDemo\LinqDemo\obj\Debug\net8.0\LinqDemo.sourcelink.json
+C:\Users\songbo\source\repos\LinqDemo\LinqDemo\obj\Debug\net8.0\LinqDemo.dll
+C:\Users\songbo\source\repos\LinqDemo\LinqDemo\obj\Debug\net8.0\refint\LinqDemo.dll
+C:\Users\songbo\source\repos\LinqDemo\LinqDemo\obj\Debug\net8.0\LinqDemo.pdb
+C:\Users\songbo\source\repos\LinqDemo\LinqDemo\obj\Debug\net8.0\LinqDemo.genruntimeconfig.cache
+C:\Users\songbo\source\repos\LinqDemo\LinqDemo\obj\Debug\net8.0\ref\LinqDemo.dll
